@@ -1,0 +1,35 @@
+name: Update Weather
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+
+  workflow_dispatch:
+
+env:
+  LOCC: $(curl wttr.in/${{ vars.GH_LOCC }}\?m\&format\=3)
+  LOCD: $(curl wttr.in/${{ vars.GH_LOCD }}\?m\&format\=3)
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup
+        run: |
+          git config --global user.email "${{ vars.GH_EMAIL }}"
+          git config --global user.name "${{ vars.GH_NAME }}"
+
+      - name: Update
+        run: |
+          if [[ "$(sed -n '63p' README.md)" != "Weather: ${{ env.LOCC }} | ${{ env.LOCD }}" ]]; then
+            sed -i "63c Weather: ${{ env.LOCC }} | ${{ env.LOCD }}" README.md
+            git add README.md
+            git commit -m "[AUTOMATED] Updated Weather"
+            git push origin master
+          else
+            echo "Everything is up to date."
+          fi
