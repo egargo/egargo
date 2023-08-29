@@ -2,7 +2,8 @@ name: Update Weather
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    # Run every four (4) hours.
+    - cron: "0 */4 * * *"
 
   workflow_dispatch:
 
