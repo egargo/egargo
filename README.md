@@ -59,4 +59,4 @@
 
 Date: August 31 2023 (Thursday)
 
-Weather:  | 
+Weather: Cagayan de Oro: 🌦   +26°C | Manolo Fortich: 🌧   +24°C
