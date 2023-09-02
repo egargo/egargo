@@ -48,7 +48,7 @@
         <summary>Engines, Runtimes, Frameworks, Libraries, Servers, Databases</summary>
             <img src="https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white">
             <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
-            <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
             <img src="https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
             <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white">
             <img src="https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white">
