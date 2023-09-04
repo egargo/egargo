@@ -60,4 +60,4 @@
 
 Date: September 05 2023 (Tuesday)
 
-Weather: Cagayan de Oro: 🌦   +24°C | Manolo Fortich: 🌦   +23°C
+Weather: Unknown location; please try ~8.42980265,124.682410212383 | Unknown location; please try ~8.3678344,124.8663083
