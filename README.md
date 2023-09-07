@@ -2,7 +2,7 @@
     <a href="https://github.com/egargo/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egargo"></a>
     <a href="https://www.codewars.com/users/egargo/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/egargo"></a>
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=egargo&count_private=true&show_icons=true&theme=transparent&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=egargo&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&rank_icon=github">
     <br>
     <img src="https://www.codewars.com/users/egargo/badges/micro" height="32">
     <img src="https://projecteuler.net/profile/egargo.png" height="32">
