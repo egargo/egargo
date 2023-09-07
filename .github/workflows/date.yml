@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup timezone
-        uses: zcong1993/setup-timezone@master
-        with:
-          timezone: Asia/Manila
+      # - name: Setup timezone
+      #   uses: zcong1993/setup-timezone@master
+      #   with:
+      #     timezone: Asia/Manila
 
       - name: Checkout
         uses: actions/checkout@v3
@@ -26,6 +26,7 @@ jobs:
         run: |
           git config --global user.email "${{ vars.GH_EMAIL }}"
           git config --global user.name "${{ vars.GH_NAME }}"
+          sudo timedatectl set-timezone Asia/Manila
 
       - name: Push
         run: |
