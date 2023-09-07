@@ -14,11 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # - name: Setup timezone
-      #   uses: zcong1993/setup-timezone@master
-      #   with:
-      #     timezone: Asia/Manila
-
       - name: Checkout
         uses: actions/checkout@v3
 
