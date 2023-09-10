@@ -1,4 +1,4 @@
-| [GitHub](https://github.com/egargo) | [Codewars](https://www.codewars.com/users/egargo) | [projects](https://github.com/egargo?tab=repositories) | [dotfiles](https://github.com/egargo?tab=repositories) |
+| [GitHub](https://github.com/egargo) | [Codewars](https://www.codewars.com/users/egargo) | [Projects](https://github.com/egargo?tab=repositories) | [dotfiles](https://github.com/egargo?tab=repositories) |
 | - | - | - | - |
 
 ---
