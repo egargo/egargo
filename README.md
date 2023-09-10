@@ -18,7 +18,7 @@ Weather: Cagayan de Oro: 🌦   +23°C | Manolo Fortich: 🌦   +23°C
             <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3550H-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
             <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat-square&logoColor=white" />
             <img src="https://img.shields.io/badge/nvidia-GTX%201650-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white" />
-    </detials>
+    </details>
     <details>
         <summary>Programming Languages</summary>
             <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324">
