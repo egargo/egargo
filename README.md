@@ -1,23 +1,24 @@
-<div align='center'>
-    <a href="https://github.com/egargo/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egargo"></a>
-    <a href="https://www.codewars.com/users/egargo/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/egargo"></a>
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=egargo&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=transparent&rank_icon=github">
-    <br>
-    <img src="https://www.codewars.com/users/egargo/badges/micro" height="32">
-    <img src="https://projecteuler.net/profile/egargo.png" height="32">
-    <br><br>
-    <p>💻 My workspace</p>
-    <img src="https://wakatime.com/badge/user/d64bde0d-39f6-49db-9bd8-8f41329fb145.svg?style=flat-square">
-    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white">
-    <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3550H-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat-square&logoColor=white" />
-    <img src="https://img.shields.io/badge/nvidia-GTX%201650-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white" />
-</div>
+| [GitHub](https://github.com/egargo) | [Codewars](https://www.codewars.com/users/egargo) | [projects](https://github.com/egargo?tab=repositories) | [dotfiles](https://github.com/egargo?tab=repositories) |
+| - | - | - | - |
+
+---
+
+Date: September 11, 2023 (Monday)
+
+Weather: Cagayan de Oro: 🌦   +23°C | Manolo Fortich: 🌦   +23°C
 
 ---
 
 <div>
+    <details>
+        <summary>My Workspace</summary>
+            <img src="https://github-readme-stats.vercel.app/api?username=egargo&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=transparent">
+            <img src="https://wakatime.com/badge/user/d64bde0d-39f6-49db-9bd8-8f41329fb145.svg?style=flat-square">
+            <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white">
+            <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3550H-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
+            <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat-square&logoColor=white" />
+            <img src="https://img.shields.io/badge/nvidia-GTX%201650-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white" />
+    </detials>
     <details>
         <summary>Programming Languages</summary>
             <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324">
@@ -55,9 +56,3 @@
             <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
     </details>
 </div>
-
----
-
-Date: September 11, 2023 (Monday)
-
-Weather: Cagayan de Oro: 🌦   +23°C | Manolo Fortich: 🌦   +23°C
