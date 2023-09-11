@@ -1,35 +1,35 @@
-# name: Update Date
-#
-# on:
-#   schedule:
-#     # Run Actions every 12:00 GMT +0800 from GMT +0000. GitHub Actions' time
-#     # is GMT +0000 is 8 hours behind the Philippine Time. I adjusted it so
-#     # that it would run at exactly 00:00 Philippine Time.
-#     - cron: "0 16 * * *"
-#
-#   workflow_dispatch:
-#
-# jobs:
-#   update-date:
-#     runs-on: ubuntu-latest
-#
-#     steps:
-#       - name: Checkout
-#         uses: actions/checkout@v3
-#
-#       - name: Setup
-#         run: |
-#           git config --global user.email "${{ vars.GH_EMAIL }}"
-#           git config --global user.name "${{ vars.GH_NAME }}"
-#           sudo timedatectl set-timezone Asia/Manila
-#
-#       - name: Push
-#         run: |
-#           if [[ "$(sed -n '6p' README.md)" != "Date: $(date +"%B %d, %Y (%A)")" ]]; then
-#             sed -i "6c Date: $(date +"%B %d, %Y (%A)")" README.md
-#             git add README.md
-#             git commit -m "[AUTOMATED] Updated Date"
-#             git push origin master
-#           else
-#             echo "Everything is up to date."
-#           fi
+name: Update Date
+
+on:
+  schedule:
+    # Run Actions every 12:00 GMT +0800 from GMT +0000. GitHub Actions' time
+    # is GMT +0000 is 8 hours behind the Philippine Time. I adjusted it so
+    # that it would run at exactly 00:00 Philippine Time.
+    - cron: "0 16 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup
+        run: |
+          git config --global user.email "${{ vars.GH_EMAIL }}"
+          git config --global user.name "${{ vars.GH_NAME }}"
+          sudo timedatectl set-timezone Asia/Manila
+
+      - name: Push
+        run: |
+          if [[ "$(sed -n '6p' README.md)" != "Date: $(date +"%B %d, %Y (%A)")" ]]; then
+            sed -i "6c Date: $(date +"%B %d, %Y (%A)")" README.md
+            git add README.md
+            git commit -m "[AUTOMATED] Updated Date"
+            git push origin master
+          else
+            echo "Everything is up to date."
+          fi
