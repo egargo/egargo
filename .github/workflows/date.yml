@@ -5,7 +5,8 @@ on:
     # Run Actions every 12:00 GMT +0800 from GMT +0000. GitHub Actions' time
     # is GMT +0000 is 8 hours behind the Philippine Time. I adjusted it so
     # that it would run at exactly 00:00 Philippine Time.
-    - cron: "0 16 * * *"
+    # - cron: "0 16 * * *"
+    - cron: "0 */1 * * *"
 
   workflow_dispatch:
 
@@ -25,8 +26,8 @@ jobs:
 
       - name: Push
         run: |
-          if [[ "$(sed -n '6p' README.md)" != "Date: $(date +"%B %d, %Y (%A)")" ]]; then
-            sed -i "6c Date: $(date +"%B %d, %Y (%A)")" README.md
+          if [[ "$(sed -n '6p' README.md)" != "Date: $(date +"%B %d, %Y (%A) | %H:%M")" ]]; then
+            sed -i "6c Date: $(date +"%B %d, %Y (%A) | %H:%M")" README.md
             git add README.md
             git commit -m "[AUTOMATED] Updated Date"
             git push origin master
