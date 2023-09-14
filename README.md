@@ -5,7 +5,7 @@
 
 Date: September 14, 2023 (Thursday)
 
-Weather:  | 
+Weather: Cagayan de Oro: ⛅️  +27°C | Manolo Fortich: ☁️   +24°C
 
 ---
 
