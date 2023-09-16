@@ -5,7 +5,7 @@
 
 Date: September 16, 2023 (Saturday)
 
-Weather: Cagayan de Oro: 🌦   +26°C | Manolo Fortich: ⛅️  +24°C
+Weather: Cagayan de Oro: ⛅️  +24°C | Manolo Fortich: ⛅️  +23°C
 
 ![](https://wakatime.com/badge/user/d64bde0d-39f6-49db-9bd8-8f41329fb145.svg?style=flat-square)
 
