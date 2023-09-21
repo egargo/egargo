@@ -7,8 +7,6 @@ Date: September 21, 2023 (Thursday)
 
 Weather:  | 
 
-![](https://wakatime.com/badge/user/d64bde0d-39f6-49db-9bd8-8f41329fb145.svg?style=flat-square)
-
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=egargo&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=transparent)
