@@ -5,7 +5,7 @@
 
 Date: September 23, 2023 (Saturday)
 
-Weather:  | Unknown location; please try ~8.3678344,124.8663083
+Weather:  | 
 
 ---
 
