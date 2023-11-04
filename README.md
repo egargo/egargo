@@ -5,7 +5,7 @@
 
 Date: November 04, 2023 (Saturday)
 
-Weather: Cagayan de Oro: 🌦   +30°C | Manolo Fortich: 🌦   +30°C
+Weather: Cagayan de Oro: 🌦   +30°C | Manolo Fortich: 🌧   +27°C
 
 ---
 
