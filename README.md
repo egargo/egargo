@@ -9,6 +9,6 @@ Weather: Cagayan de Oro: 🌦   +25°C | Manolo Fortich: 🌦   +24°C
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=egargo&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=egargo&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)
 
 ![](https://skillicons.dev/icons?i=linux,git,github,githubactions,neovim,docker,rust,actix,bash,python,vercel,raspberrypi,perl,nodejs,js,ts,express,svelte,react,postman,go,cpp,c,figma,html,css,java,vscode)
