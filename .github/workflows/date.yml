@@ -25,8 +25,8 @@ jobs:
 
       - name: Push
         run: |
-          if [[ "$(sed -n '6p' README.md)" != "Date: $(date +"%B %d, %Y (%A)")" ]]; then
-            sed -i "6c Date: $(date +"%B %d, %Y (%A)")" README.md
+          if [[ "$(sed -n '1p' README.md)" != "Date: $(date +"%B %d, %Y (%A)")" ]]; then
+            sed -i "1c Date: $(date +"%B %d, %Y (%A)")" README.md
             git add README.md
             git commit -m "[AUTOMATED] Updated Date"
             git push origin master
