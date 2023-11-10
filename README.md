@@ -8,7 +8,7 @@ Weather: Cagayan de Oro: 🌦   +26°C | Manolo Fortich: 🌦   +24°C
 
 - Mainly backend, DevOps, Linux, Rust, CLI, and a little bit of everything
 - [GitHub](https://github.com/egargo)
-- [My website](https://egargo.xyz)
 - [Projects](https://github.com/egargo?tab=repositories)
 - [Codewars](https://www.codewars.com/users/egargo)
 - [~/.dotfiles](https://github.com/egargo/dotfiles)
+- [My website](https://egargo.xyz)
