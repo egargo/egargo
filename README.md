@@ -1,14 +1,16 @@
-Date: November 12, 2023 (Sunday)
+Date: November 10, 2023 (Friday)
 
-Weather: Cagayan de Oro: ☀️   +24°C | Manolo Fortich: ☀️   +23°C
+Weather: Cagayan de Oro: 🌦   +26°C | Manolo Fortich: 🌦   +24°C
 
----
+#
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=egargo&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" />
+<div align="center">
+    <p>
+        <a href="https://github.com/egargo">github</a> -
+        <a href="https://github.com/egargo?tab=repositories">projects</a> -
+        <a href="https://www.codewars.com/users/egargo">codewars</a> -
+        <a href="https://github.com/egargo/dotfiles">dotfiles</a> -
+        <a href="https://egargo.xyz">website</a>
+    </p>
+</div>
 
-- Mainly backend, DevOps, Linux, Rust, CLI, and a little bit of everything
-- [GitHub](https://github.com/egargo)
-- [Projects](https://github.com/egargo?tab=repositories)
-- [Codewars](https://www.codewars.com/users/egargo)
-- [~/.dotfiles](https://github.com/egargo/dotfiles)
-- [My website](https://egargo.xyz)
