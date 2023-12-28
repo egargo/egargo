@@ -1,6 +1,6 @@
 Date: December 29, 2023 (Friday)
 
-Weather: Cagayan de Oro: ☀️   +24°C | Manolo Fortich: 🌫  +21°C
+Weather:  | 
 
 #
 
