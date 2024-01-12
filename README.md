@@ -1,6 +1,6 @@
 Date: January 13, 2024 (Saturday)
 
-Weather: Cagayan de Oro: 🌦   +26°C | Manolo Fortich: 🌫  +20°C
+Weather: Cagayan de Oro: ☀️   +25°C | Manolo Fortich: ☀️   +19°C
 
 #
 
