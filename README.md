@@ -1,6 +1,6 @@
 Date: February 06, 2024 (Tuesday)
 
-Weather:  | 
+Weather: Cagayan de Oro: ☀️   +22°C | Manolo Fortich: ☀️   +17°C
 
 #
 
