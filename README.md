@@ -1,6 +1,6 @@
 Date: February 15, 2024 (Thursday)
 
-Weather: Unknown location; please try ~8.42980265,124.682410212383 | Unknown location; please try ~8.3678344,124.8663083
+Weather: Cagayan de Oro: ☀️   +28°C | Manolo Fortich: ☀️   +27°C
 
 #
 
