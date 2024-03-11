@@ -1,6 +1,6 @@
 Date: March 11, 2024 (Monday)
 
-Weather:  | 
+Weather: Cagayan de Oro: ☀️   +25°C | Manolo Fortich: ☀️   +20°C
 
 #
 
