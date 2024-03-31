@@ -2,8 +2,8 @@ name: Update Weather
 
 on:
   schedule:
-    # Run every two (2) hours.
-    - cron: "0 */2 * * *"
+    # Run every one (1) hour.
+    - cron: "0 */1 * * *"
 
   workflow_dispatch:
 
