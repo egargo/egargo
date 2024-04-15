@@ -1,6 +1,6 @@
 Date: April 15, 2024 (Monday)
 
-Weather: Unknown location; please try ~8.42980265,124.682410212383 | Manolo Fortich: 🌦   +21°C
+Weather: Cagayan de Oro: ☀️   +26°C | Manolo Fortich: ☀️   +21°C
 
 #
 
