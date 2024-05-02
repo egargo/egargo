@@ -1,0 +1,27 @@
+name: Update Epoch
+
+on:
+  schedule:
+    - cron: "*/12 * * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup
+        run: |
+          git config --global user.email "${{ vars.GH_EMAIL }}"
+          git config --global user.name "${{ vars.GH_NAME }}"
+
+      - name: Update
+        run: |
+          sed -i "5c Unix Time: $(date +"%s")" README.md
+          git add README.md
+          git commit -m "[AUTOMATED] Updated Unix Time"
+          git push origin master
