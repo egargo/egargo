@@ -1,6 +1,6 @@
 Date: May 26, 2024 (Sunday)
 
-Weather: Unknown location; please try ~8.42980265,124.682410212383 | Unknown location; please try ~8.3678344,124.8663083
+Weather:  | 
 
 Unix Time: 1716708993
 
