@@ -1,6 +1,6 @@
 Date: May 28, 2024 (Tuesday)
 
-Weather: Unknown location; please try ~8.42980265,124.682410212383 | Unknown location; please try ~8.3678344,124.8663083
+Weather: Cagayan de Oro: 🌦   +28°C | Manolo Fortich: ⛅️  +25°C
 
 Unix Time: 1716853065
 
