@@ -1,6 +1,6 @@
 Date: June 08, 2024 (Saturday)
 
-Weather:  | 
+Weather: Cagayan de Oro: ⛅️  +25°C | Manolo Fortich: 🌫  +22°C
 
 Unix Time: 1717853836
 
