@@ -1,6 +1,6 @@
 Date: June 23, 2024 (Sunday)
 
-Weather: Unknown location; please try ~8.42980265,124.682410212383 | Manolo Fortich: 🌦   +27°C
+Weather:  | 
 
 Unix Time: 1719126943
 
